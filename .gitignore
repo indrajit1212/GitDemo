@@ -1,0 +1,4 @@
+*.log
+Dir/
+static/Dir
+db.accdb
